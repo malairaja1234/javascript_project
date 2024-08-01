@@ -1,0 +1,48 @@
+.container
+{
+    background-color: yellow;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#mydiv
+{
+    height: 90vh;
+    width: 60vw;
+    background-color: black;
+    text-align: center;
+    
+}
+
+input,label
+{
+    height: 30px;
+}
+button
+{
+    
+    background-color: yellow;
+    color: black;
+    font-size: large;
+    margin-top: 10%;
+}
+.inputs
+{
+    margin-top: 10%;
+}
+h1
+{
+    color: red;
+}
+span
+{
+    color: blue;
+    
+}
+#resul
+{
+    margin: 30px;
+    font-size: 40px;
+}
